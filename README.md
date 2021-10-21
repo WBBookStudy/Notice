@@ -10,4 +10,6 @@
 - [엘리멘틀 디자인 패턴 - 객체지향과 디자인 패턴의 연결 고리, 제이슨 맥컴 스미스](https://book.naver.com/bookdb/book_detail.nhn?bid=7202641)
 - [클린 소프트웨어 애자일 원칙과 패턴, 그리고 실천 방법, 로버트 C. 마틴](https://book.naver.com/bookdb/book_detail.nhn?bid=12035385)
 - [개발자에서 아키텍트로, 마이클 킬링](https://book.naver.com/bookdb/book_detail.nhn?bid=20568444)
+- [리팩터링, 마틴 파울러](https://book.naver.com/bookdb/book_detail.nhn?bid=16311029)
+- [데이터 중심 애플리케이션 설계, 마틴 클레프만](https://book.naver.com/bookdb/book_detail.nhn?bid=13483879)
 > 이 외에 스터디 하고싶은 책이 있다면 자유롭게 추가해주세요.
