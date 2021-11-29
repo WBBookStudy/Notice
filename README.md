@@ -12,5 +12,5 @@
 - [개발자에서 아키텍트로, 마이클 킬링](https://book.naver.com/bookdb/book_detail.nhn?bid=20568444)
 - [리팩터링, 마틴 파울러](https://book.naver.com/bookdb/book_detail.nhn?bid=16311029)
 - [데이터 중심 애플리케이션 설계, 마틴 클레프만](https://book.naver.com/bookdb/book_detail.nhn?bid=13483879)
-- [단위테스트- 생산성과 품질을 위한 단위 테스트 원칙과 패턴](http://aladin.kr/p/b44kX)
+- [단위테스트- 생산성과 품질을 위한 단위 테스트 원칙과 패턴, 블라디미르 코리코프](http://aladin.kr/p/b44kX)
 > 이 외에 스터디 하고싶은 책이 있다면 자유롭게 추가해주세요.
