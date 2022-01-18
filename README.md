@@ -1,7 +1,7 @@
 # 알림
 
 ## 스터디 시간
-### 매주 월요일 오후 9시 ~ 10시 인터넷!
+### 매주 일요일 오후 9시 ~ 10시 인터넷!
 
 ## 스터디 책 목록
 - ~~[Clean Code 클린 코드,애자일 소프트웨어 장인 정신, 로버트 C. 마틴](https://book.naver.com/bookdb/book_detail.nhn?bid=7390287)~~ (완료) [스터디 Repo 링크](https://github.com/WBBookStudy/CleanCodeStudy)
