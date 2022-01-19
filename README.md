@@ -14,4 +14,5 @@
 - [데이터 중심 애플리케이션 설계, 마틴 클레프만](https://book.naver.com/bookdb/book_detail.nhn?bid=13483879)
 - [단위테스트- 생산성과 품질을 위한 단위 테스트 원칙과 패턴, 블라디미르 코리코프](https://book.naver.com/bookdb/book_detail.naver?bid=21115809)
 - [켄트 벡의 구현패턴, 켄트 벡](https://book.naver.com/bookdb/book_detail.nhn?bid=4392142)
+- [테스트 주도 개발, 켄트 벡](https://book.naver.com/bookdb/book_detail.naver?bid=7443642)
 > 이 외에 스터디 하고싶은 책이 있다면 자유롭게 추가해주세요.
