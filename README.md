@@ -17,4 +17,5 @@
 - [레거시 코드 활용 전략, 마이클 C. 페더스](https://book.naver.com/bookdb/book_detail.nhn?bid=14032002)
 - [실용주의 프로그래머, 데이비드 토머스, 앤드류 헌트](https://book.naver.com/bookdb/book_detail.nhn?bid=21510061)
 - [켄트 벡의 구현패턴, 켄트 벡](https://book.naver.com/bookdb/book_detail.nhn?bid=4392142)
+- [익스트림 프로그래밍, 켄트 벡, 신시아 안드레스](https://book.naver.com/bookdb/book_detail.nhn?bid=2497945)
 > 이 외에 스터디 하고싶은 책이 있다면 자유롭게 추가해주세요.
