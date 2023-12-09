@@ -12,13 +12,13 @@
 - ~~[켄트 벡의 구현패턴, 켄트 벡](https://book.naver.com/bookdb/book_detail.nhn?bid=4392142)~~(완료) [스터디 Repo 링크](https://github.com/WBBookStudy/ImplementationPatternsStudy)
 - ~~[레거시 코드 활용 전략, 마이클 C. 페더스](https://book.naver.com/bookdb/book_detail.nhn?bid=14032002)~~(완료) [스터디 Repo 링크](https://github.com/WBBookStudy/WorkingEffectivelyWithLegacyCode)
 - ~~[실용주의 프로그래머, 데이비드 토머스, 앤드류 헌트](https://book.naver.com/bookdb/book_detail.nhn?bid=21510061)~~(완료) [스터디 Repo 링크](https://github.com/WBBookStudy/ProgramProgrammingProgrammer)
-- [엘리멘틀 디자인 패턴 - 객체지향과 디자인 패턴의 연결 고리, 제이슨 맥컴 스미스](https://book.naver.com/bookdb/book_detail.nhn?bid=7202641)
-- [클린 소프트웨어 애자일 원칙과 패턴, 그리고 실천 방법, 로버트 C. 마틴](https://book.naver.com/bookdb/book_detail.nhn?bid=12035385)
+- [클린 소프트웨어 애자일 원칙과 패턴, 그리고 실천 방법, 로버트 C. 마틴](https://book.naver.com/bookdb/book_detail.nhn?bid=12035385)(진행중) [스터디 Repo 링크]([https://github.com/WBBookStudy/ProgramProgrammingProgrammer](https://github.com/WBBookStudy/AgileSoftwareDevelopment))
 - [개발자에서 아키텍트로, 마이클 킬링](https://book.naver.com/bookdb/book_detail.nhn?bid=20568444)
 - [데이터 중심 애플리케이션 설계, 마틴 클레프만](https://book.naver.com/bookdb/book_detail.nhn?bid=13483879)
 - [단위테스트- 생산성과 품질을 위한 단위 테스트 원칙과 패턴, 블라디미르 코리코프](https://book.naver.com/bookdb/book_detail.naver?bid=21115809)
 - [소프트웨어 아키텍처 101, 마크 리처즈, 닐 포드](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=281760928)
 - [익스트림 프로그래밍, 켄트 벡, 신시아 안드레스](https://book.naver.com/bookdb/book_detail.nhn?bid=2497945)
+- [엘리멘틀 디자인 패턴 - 객체지향과 디자인 패턴의 연결 고리, 제이슨 맥컴 스미스](https://book.naver.com/bookdb/book_detail.nhn?bid=7202641)
 > 이 외에 스터디 하고싶은 책이 있다면 자유롭게 추가해주세요.
 
 
